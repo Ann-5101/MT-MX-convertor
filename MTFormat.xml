@@ -15,7 +15,7 @@
     </LclInstrm>
    </PmtTpInf>
    <IntrBkSttlmAmt>
-    100000,
+    100000
    </IntrBkSttlmAmt>
    <Dbtr>
     <Nm>
@@ -23,8 +23,8 @@
     </Nm>
     <PstlAdr>
      <AdrLine>
-      AV XXXXX 123 BIS 9 PL 
-12345 BARCELONA</AdrLine>
+      AV XXXXX 123 BIS 9 PL 12345 BARCELONA
+     </AdrLine>
     </PstlAdr>
    </Dbtr>
    <DbtrAcct>
@@ -41,10 +41,15 @@
      FOO AGENTES DE BOLSA ASOC
     </Nm>
    </Cdtr>
+   <CdtrAcct>
     <Id>
+     <Othr>
       <Id>
+       /ES0123456789012345671234
       </Id>
      </Othr>
     </Id>
    </CdtrAcct>
   </CdtTrfTxInf>
+ </FIToFICstmrCdtTrf>
+</Document>
